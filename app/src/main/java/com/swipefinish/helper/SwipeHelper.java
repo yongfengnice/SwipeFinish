@@ -68,7 +68,7 @@ public class SwipeHelper {
                 float upX = ev.getX();
                 if ((upX - mDownX) / (System.currentTimeMillis() - mDownTime) > 0.5) {//快速滑动
                     curActivity.finish();
-                } else if (upX > screenWidth / 2) {//大于屏幕一般
+                } else if (upX > screenWidth / 2) {//大于屏幕一半就结束当前Activity，根据自己需求而定吧
                     curActivity.finish();
                 } else {
                     curContentView.setX(0);
