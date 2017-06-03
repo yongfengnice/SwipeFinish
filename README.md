@@ -4,10 +4,12 @@
 效果图如下：
 
 demo里面的效果：
+
 ![](http://i.imgur.com/2HBwqko.gif)
 
 集成到真实项目的效果：
-![](http://i.imgur.com/zh7V41I.gif)
+
+![](http://i.imgur.com/2BxiDV1.gif)
 
 使用步骤：
 	
