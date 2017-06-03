@@ -19,10 +19,10 @@ demo里面的效果：
         android:theme="@style/AppTheme.Translucent.NoTitleBar">
     </activity>
 	
+	2.styles.xml文件添加主题
 	<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
     </style>
 	
-	2.styles.xml文件添加主题
     <style name="AppTheme.Translucent">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:colorBackgroundCacheHint">@null</item>
