@@ -36,7 +36,10 @@ public class NextActivity extends Activity {
 
     @Override
     public boolean dispatchTouchEvent(MotionEvent ev) {
-        SwipeHelper.instance().processTouchEvent(ev);
+        boolean processTouchEvent = SwipeHelper.instance().processTouchEvent(ev);
+        if (processTouchEvent) {
+            return true;
+        }
         return super.dispatchTouchEvent(ev);
     }
 
