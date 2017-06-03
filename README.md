@@ -9,7 +9,7 @@ demo里面的效果：
 
 集成到真实项目的效果：
 
-![](http://i.imgur.com/DwvNROT.gif)
+![](http://i.imgur.com/DZc4wGe.gif)
 
 使用步骤：
 	
