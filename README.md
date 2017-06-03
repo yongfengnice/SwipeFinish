@@ -7,7 +7,7 @@ demo里面的效果：
 
 ![](http://i.imgur.com/2HBwqko.gif)
 
-集成到真实项目的效果：
+集成到真实项目的效果(因为文件体积过大，把尺寸缩小一点)：
 
 ![](http://i.imgur.com/DZc4wGe.gif)
 
